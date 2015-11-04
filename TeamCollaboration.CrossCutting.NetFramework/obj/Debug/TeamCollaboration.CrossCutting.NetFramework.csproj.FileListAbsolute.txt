@@ -1,0 +1,9 @@
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\bin\Debug\TeamCollaboration.CrossCutting.NetFramework.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\bin\Debug\TeamCollaboration.CrossCutting.NetFramework.pdb
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\bin\Debug\AutoMapper.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\bin\Debug\TeamCollaboration.CrossCutting.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\bin\Debug\TeamCollaboration.CrossCutting.pdb
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\bin\Debug\AutoMapper.xml
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\obj\Debug\TeamCollaboration.CrossCutting.NetFramework.csprojResolveAssemblyReference.cache
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\obj\Debug\TeamCollaboration.CrossCutting.NetFramework.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting.NetFramework\obj\Debug\TeamCollaboration.CrossCutting.NetFramework.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\TeamCollaboration3\TeamCollaboration\TeamCollaboration.Application\bin\Debug\TeamCollaboration.Application.dll
+C:\Users\Administrator\Source\Repos\TeamCollaboration3\TeamCollaboration\TeamCollaboration.Application\bin\Debug\TeamCollaboration.Application.pdb
+C:\Users\Administrator\Source\Repos\TeamCollaboration3\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.dll
+C:\Users\Administrator\Source\Repos\TeamCollaboration3\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.pdb
+C:\Users\Administrator\Source\Repos\TeamCollaboration3\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.csprojResolveAssemblyReference.cache
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.csprojResolveAssemblyReference.cache
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.pdb

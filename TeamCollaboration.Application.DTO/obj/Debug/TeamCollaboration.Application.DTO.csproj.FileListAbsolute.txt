@@ -1,0 +1,9 @@
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Application.DTO.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Application.DTO.pdb
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\AutoMapper.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Domain.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Domain.pdb
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\AutoMapper.xml
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.csprojResolveAssemblyReference.cache
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.pdb

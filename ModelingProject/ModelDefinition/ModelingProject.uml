@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="20b711e1-4ce9-49a9-9c9d-00e840ddf80b"
+  name="ModelingProject" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="25733877-1eaf-46a2-9b07-ec032992be9a">
+      <profileInstance
+        Id="57ff8b20-628d-4d96-a036-e39bcf09fcca"
+        name="TextTemplateBindings" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="f0f52833-cda2-4a83-8d30-94798fab99d7"
+        name="Tenant"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <ownedAttributesInternal>
+          <property
+            Id="d78f8093-491e-44c2-ba8f-a4a14228469b"
+            name="Name"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="1b78fbba-c487-4e69-a64a-3d6d740c4204"
+            name="Active"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <description>激活当前租户，可以使用软件功能</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="3d9397f9-e2ce-46e3-aaea-6606fb9c7cdf"
+                name="TextTemplateBindings"
+                profile="TextTemplateBindings">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="2fc8e6df-845f-45cb-9efa-49d8e02d0d51">
+                    <propertyInstance
+                      Id="0657d25a-cafe-4358-89ec-42943bc73e56"
+                      name="Alias"
+                      value="Template1" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a7283d9c-7ed6-4580-9aa1-dff3055648cf">
+                    <propertyInstance
+                      Id="7bb075cd-da57-44fe-9aa2-39596220fbe3"
+                      name="TemplateFilePath" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="62ab5b74-4df5-4f76-ad4a-23eccc73d779">
+                    <propertyInstance
+                      Id="7e41bf1f-5cdf-4875-9b2f-ca89b38dd8a4"
+                      name="ProjectPath"
+                      value="Template1=..\ModelingProjectLib\ModelingProjectLib.csproj" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="7f0cea4c-c9f2-4d60-88b6-c43bf9e868cf">
+                    <propertyInstance
+                      Id="bd6c037e-6cb7-4cc7-98a2-fcb46219ed14"
+                      name="TargetDirectory"
+                      value="Template1=GeneratedCode\{PackageStructure}" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="92b43244-8d7e-4a70-bf90-faba19cbf9bb">
+                    <propertyInstance
+                      Id="3185522a-4edf-4b06-b47a-21c9768db049"
+                      name="TargetName"
+                      value="Template1={Name}" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="0f59877f-f243-4f16-ad77-71932a441af9">
+                    <propertyInstance
+                      Id="0ac8b79d-9e9c-4483-b14b-16af835a1cab"
+                      name="Overwrite"
+                      value="Template1=True" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="827faf97-2d9f-4ef5-9bd2-b9548838d6fe">
+                    <propertyInstance
+                      Id="a0c035e7-e896-490d-a295-fcfa2afd0c4d"
+                      name="Parameters" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="279677bb-9a7b-4f2e-b7e9-1baf208d17f5"
+                  direction="Return" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="338ba5f1-1ee3-4798-850f-1c118b3183a9"
+        name="Interface1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

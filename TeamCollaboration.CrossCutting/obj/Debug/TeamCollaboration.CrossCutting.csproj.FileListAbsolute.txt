@@ -1,0 +1,5 @@
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting\bin\Debug\TeamCollaboration.CrossCutting.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting\bin\Debug\TeamCollaboration.CrossCutting.pdb
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting\obj\Debug\TeamCollaboration.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting\obj\Debug\TeamCollaboration.CrossCutting.dll
+C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.CrossCutting\obj\Debug\TeamCollaboration.CrossCutting.pdb
