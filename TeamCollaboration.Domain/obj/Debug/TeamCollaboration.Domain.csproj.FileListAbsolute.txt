@@ -22,3 +22,15 @@ C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Domain\bin\Debu
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Domain\obj\Debug\TeamCollaboration.Domain.dll
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Domain\obj\Debug\TeamCollaboration.Domain.pdb
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Domain\obj\Debug\TeamCollaboration.Domain.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\TeamCollaboration.Domain.dll.config
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\TeamCollaboration.Domain.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\TeamCollaboration.Domain.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\EntityFramework.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\EntityFramework.xml
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\obj\Debug\TeamCollaboration.Domain.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\obj\Debug\TeamCollaboration.Domain.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain\obj\Debug\TeamCollaboration.Domain.pdb

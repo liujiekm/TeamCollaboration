@@ -6,3 +6,6 @@ C:\Users\Administrator\Source\Repos\TeamCollaboration3\TeamCollaboration\TeamCol
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.csprojResolveAssemblyReference.cache
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.dll
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application\obj\Debug\TeamCollaboration.Application.pdb

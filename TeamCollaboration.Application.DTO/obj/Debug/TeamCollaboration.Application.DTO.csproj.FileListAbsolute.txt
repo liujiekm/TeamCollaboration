@@ -7,3 +7,12 @@ C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.csprojResolveAssemblyReference.cache
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.dll
 C:\Project\TeamCollaboration\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Application.DTO.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Application.DTO.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\AutoMapper.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Domain.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\TeamCollaboration.Domain.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\bin\Debug\AutoMapper.xml
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Application.DTO\obj\Debug\TeamCollaboration.Application.DTO.pdb
