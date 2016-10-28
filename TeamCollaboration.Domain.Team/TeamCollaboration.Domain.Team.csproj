@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D5BABA6-11B6-4111-AFF3-F1B1E6C51CD9}</ProjectGuid>
+    <ProjectGuid>{74C41C55-B05F-4F66-9B78-689FBE9C982A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TeamCollaboration.CrossCutting.NetFramework</RootNamespace>
-    <AssemblyName>TeamCollaboration.CrossCutting.NetFramework</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <RootNamespace>TeamCollaboration.Domain.Team</RootNamespace>
+    <AssemblyName>TeamCollaboration.Domain.Team</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -30,14 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AutoMapper, Version=4.0.4.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
-      <HintPath>..\packages\AutoMapper.4.0.4\lib\net45\AutoMapper.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Runtime.Caching" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,24 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Adapter\AutomapperTypeAdapter.cs" />
-    <Compile Include="Adapter\AutomapperTypeAdapterFactory.cs" />
-    <Compile Include="Cache\CacheProvider.cs" />
-    <Compile Include="Logging\TraceSourceLog.cs" />
-    <Compile Include="Logging\TraceSourceLogFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Validator\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\TeamCollaboration.CrossCutting\TeamCollaboration.CrossCutting.csproj">
-      <Project>{a73236bb-35e4-451e-8385-67d71947ce0a}</Project>
-      <Name>TeamCollaboration.CrossCutting</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
