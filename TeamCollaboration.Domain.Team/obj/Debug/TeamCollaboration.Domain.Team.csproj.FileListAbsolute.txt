@@ -1,0 +1,4 @@
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Team\bin\Debug\TeamCollaboration.Domain.Team.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Team\bin\Debug\TeamCollaboration.Domain.Team.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Team\obj\Debug\TeamCollaboration.Domain.Team.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Team\obj\Debug\TeamCollaboration.Domain.Team.pdb

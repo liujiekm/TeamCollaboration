@@ -1,0 +1,5 @@
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CQRS\bin\Debug\TeamCollaboration.CQRS.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CQRS\bin\Debug\TeamCollaboration.CQRS.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CQRS\obj\Debug\TeamCollaboration.CQRS.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CQRS\obj\Debug\TeamCollaboration.CQRS.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CQRS\obj\Debug\TeamCollaboration.CQRS.pdb

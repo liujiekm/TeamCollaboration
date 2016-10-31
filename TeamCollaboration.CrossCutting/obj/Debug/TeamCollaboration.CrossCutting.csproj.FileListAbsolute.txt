@@ -7,3 +7,4 @@ C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Cro
 C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CrossCutting\bin\Debug\TeamCollaboration.CrossCutting.pdb
 C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CrossCutting\obj\Debug\TeamCollaboration.CrossCutting.dll
 C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CrossCutting\obj\Debug\TeamCollaboration.CrossCutting.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.CrossCutting\obj\Debug\TeamCollaboration.CrossCutting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Scrum\bin\Debug\TeamCollaboration.Domain.Scrum.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Scrum\bin\Debug\TeamCollaboration.Domain.Scrum.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Scrum\obj\Debug\TeamCollaboration.Domain.Scrum.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Scrum\obj\Debug\TeamCollaboration.Domain.Scrum.pdb

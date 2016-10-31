@@ -1,0 +1,5 @@
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Project\bin\Debug\TeamCollaboration.Domain.Project.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Project\bin\Debug\TeamCollaboration.Domain.Project.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Project\obj\Debug\TeamCollaboration.Domain.Project.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Project\obj\Debug\TeamCollaboration.Domain.Project.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TeamCollaboration.Domain.Project\obj\Debug\TeamCollaboration.Domain.Project.pdb
