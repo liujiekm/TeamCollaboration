@@ -52,6 +52,7 @@
     <Compile Include="Event\IEvent.cs" />
     <Compile Include="Event\IEventHandler.cs" />
     <Compile Include="Event\IEventPublisher.cs" />
+    <Compile Include="Event\IEventStore.cs" />
     <Compile Include="Message\IHandler.cs" />
     <Compile Include="Message\IMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -50,6 +50,8 @@ namespace TeamCollaboration.CQRS.Domain
 
         /// <summary>
         /// 改变所有修改为已提交
+        /// 
+        /// 不需要运用所有修改么？
         /// </summary>
         public void MarkChangesAsCommitted()
         {
