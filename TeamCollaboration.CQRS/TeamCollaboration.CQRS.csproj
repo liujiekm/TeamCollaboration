@@ -42,24 +42,25 @@
   <ItemGroup>
     <Compile Include="Command\ICommand.cs" />
     <Compile Include="Command\ICommandHandler.cs" />
-    <Compile Include="Command\ICommandSender.cs" />
+    <Compile Include="Command\ICommandBus.cs" />
     <Compile Include="Domain\AggregateRoot.cs" />
     <Compile Include="Domain\Exception\AggregateNotFoundException.cs" />
     <Compile Include="Domain\Exception\AggregateOrEventMissingIdException.cs" />
     <Compile Include="Domain\Exception\ConcurrencyException.cs" />
     <Compile Include="Domain\Exception\EventsOutOfOrderException.cs" />
     <Compile Include="Domain\Exception\MissingParameterLessConstructorException.cs" />
+    <Compile Include="EventSourced\EventSourced.cs" />
+    <Compile Include="EventSourced\IEventSourced.cs" />
     <Compile Include="Event\IEvent.cs" />
     <Compile Include="Event\IEventHandler.cs" />
-    <Compile Include="Event\IEventPublisher.cs" />
+    <Compile Include="Event\IEventBus.cs" />
     <Compile Include="Event\IEventStore.cs" />
+    <Compile Include="Message\Envelope.cs" />
     <Compile Include="Message\IHandler.cs" />
     <Compile Include="Message\IMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Bus\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

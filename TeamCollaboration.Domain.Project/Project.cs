@@ -1,16 +1,19 @@
 ﻿//===================================================================================
 // Jay@self
 //===================================================================================
-// 事件发布接口契约
+// 项目核心领域中的聚合根
 //
 //
 //===================================================================================
 // .Net Framework 4.5
 // CLR版本： 4.0.30319.42000
 // 创建人：  Jay
-// 创建时间：2016/10/31 15:26:52
+// 创建时间：2016/11/2 10:48:48
 // 版本号：  V1.0.0.0
 //===================================================================================
+
+
+
 
 using System;
 using System.Collections.Generic;
@@ -18,10 +21,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeamCollaboration.CQRS.Event
+namespace TeamCollaboration.Domain.Project
 {
-    public interface IEventPublisher
+    public class Project
     {
-        void Publish<T>(T @Event) where T : IEvent;
     }
 }

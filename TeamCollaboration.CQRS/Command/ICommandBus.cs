@@ -1,7 +1,7 @@
 ﻿//===================================================================================
 // Jay@self
 //===================================================================================
-// 命令发送接口契约
+// 命令消息总线
 //
 //
 //===================================================================================
@@ -20,11 +20,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TeamCollaboration.CQRS.Message;
 
 namespace TeamCollaboration.CQRS.Command
 {
-    public interface ICommandSender
+    public interface ICommandBus
     {
-        void Sender<T>(T command) where T : ICommand;
+        void Send(Envelope<ICommand> command);
+
+        void Send(IEnumerable<Envelope<ICommand>> commands);
     }
 }
