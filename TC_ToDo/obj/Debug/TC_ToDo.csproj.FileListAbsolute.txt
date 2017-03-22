@@ -1,0 +1,5 @@
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TC_ToDo\bin\Debug\TC_ToDo.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TC_ToDo\bin\Debug\TC_ToDo.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TC_ToDo\obj\Debug\TC_ToDo.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TC_ToDo\obj\Debug\TC_ToDo.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\TC_ToDo\obj\Debug\TC_ToDo.pdb

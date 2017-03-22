@@ -1,0 +1,9 @@
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\bin\Debug\TC_ToDo.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\bin\Debug\TC_ToDo.pdb
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Jay\Workstation\Personal\LocalProject\TeamCollaboration\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

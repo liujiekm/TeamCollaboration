@@ -24,7 +24,7 @@ namespace TeamCollaboration.Domain
     public interface IUnitOfWork:IDisposable
     {
         /// <summary>
-        /// 事物性提交，保证领域事物一致性，
+        /// 事务性提交，保证领域事物一致性，
         /// 如果遇到积极并发问题，则抛出异常
         /// </summary>
         void Commit();
