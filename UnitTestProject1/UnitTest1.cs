@@ -14,5 +14,28 @@ namespace UnitTestProject1
             Assert.AreEqual(9, (byte)temp);
            
         }
+
+
+        [TestMethod]
+        public void TestTodoEvent()
+        {
+            var todo = new ToDo
+            {
+                 Id= Guid.NewGuid(),
+                 Category= ToDoCategory.NotImportant,
+                 State= ToDoState.NotStarted
+            };
+            var consumer = new Consumer(todo);
+            todo.ChangeCategory(ToDoCategory.Urgency);
+
+
+            Assert.AreEqual("", consumer.Temp);
+
+
+        }
+
+       
+
+
     }
 }
