@@ -27,7 +27,7 @@ namespace TeamCollaboration.Domain
     ///领域内所有值类型的基类
     /// </summary>
     /// <typeparam name="TValueObject"></typeparam>
-    public class ValueObject<TValueObject> : IEquatable<TValueObject> where TValueObject : ValueObject<TValueObject>
+    public abstract class ValueObject<TValueObject> : IEquatable<TValueObject> where TValueObject : ValueObject<TValueObject>
     {
         public bool Equals(TValueObject other)
         {
@@ -71,6 +71,23 @@ namespace TeamCollaboration.Domain
 
 
 
+        }
+
+
+        public static bool operator ==(ValueObject<TValueObject> left,ValueObject<TValueObject> right)
+        {
+            return left.Equals(right);
+        }
+
+        public static bool operator !=(ValueObject<TValueObject> left, ValueObject<TValueObject> right)
+        {
+            return !(left == right);
+        }
+
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
     }
 }
